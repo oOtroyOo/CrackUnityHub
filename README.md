@@ -1,10 +1,13 @@
 # CrackUnityHub
 
+# **当前仓库已不再维护，请前往这个仓库 [UniHacker](https://github.com/tylearymf/UniHacker)**
 
 
 ### 效果
 
-![image-20200920025022069](Image/image-20200920025022069.png)
+![UnityHub3.x](Image/Image.png)
+
+![UnityHub2.x](Image/image-20200920025022069.png)
 
 
 
@@ -20,7 +23,7 @@
 
 
 
-### 代码修改逻辑
+### UnityHub2.x 代码修改逻辑
 
 
 1. 先解包：```asar extract app.asar app```
@@ -64,5 +67,6 @@
 
 4. 最后打包即可：```asar pack app app.asar```
 
+### UnityHub3.x 代码修改逻辑
 
-
+1. 直接看代码去
